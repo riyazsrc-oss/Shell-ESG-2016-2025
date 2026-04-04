@@ -11,9 +11,9 @@ I wanted a project that felt realistic, applied, and relevant to future sustaina
 
 # Structure and Method
 I cleaned the data into a structured format and selected only the KPIs that could be compared fairly across years.
-**Data Gathering** - Used Data sources to collate data and create Excel Dashboards & CSVs
-**Data Processing** - CSVs used in R to create visual representations of Key comparison points and Key data trends across 10 year scope 
-**Reporting** - Environmental section of project summarised via short LinkedIn post: https://www.linkedin.com/posts/riyaz-chowdhury-873633328_esg-sustainability-climaterisk-activity-7444698591178317824-9deX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKs1BcBvCct06n122Y5iGeT_wLGBsqxkoY 
+**Data Gathering** - Used Data sources to collate data and create Excel Dashboards & CSVs. 
+**Data Processing** - CSVs used in R to create visual representations of Key comparison points and Key data trends across 10 year scope. 
+**Reporting** - Environmental section of project summarised via short LinkedIn post: https://www.linkedin.com/posts/riyaz-chowdhury-873633328_esg-sustainability-climaterisk-activity-7444698591178317824-9deX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKs1BcBvCct06n122Y5iGeT_wLGBsqxkoY. 
 
 # Data Sources 
 **Shell Sustainability Supplement data 2025**
@@ -21,21 +21,21 @@ I cleaned the data into a structured format and selected only the KPIs that coul
 **Shell Sustaiability report 2020**
 
 # KEY Abbreviations
-**MB** - Market Based 
-**LB** - Location Based 
-**EB** - Equity Boundary
+**MB** - Market Based.
+**LB** - Location Based. 
+**EB** - Equity Boundary.
 
 # Breakdown 
 
 **Environmental (25+ KPIs overall)**
-- Scope 1-3 CSVs produced via Excel Dashboards of each 
-- Scope 1 Key KPIs assessed and comparison points: YoY NCI, YoY Gasses (CO2/CH4/HCF), Direct Scope 1 vs Scope 1 Equity Boundary (for assessing JV reliance)
-- Scope 2 Key KPIs assessed and comparison points: MB vs LB Emissions, MB vs MBEB Emissions, Scope 3 Customer usage vs sold product emissions
+- Scope 1-3 CSVs produced via Excel Dashboards of each.
+- Scope 1 Key KPIs assessed and comparison points: YoY NCI, YoY Gasses (CO2/CH4/HCF), Direct Scope 1 vs Scope 1 Equity Boundary (for assessing JV reliance).
+- Scope 2 Key KPIs assessed and comparison points: MB vs LB Emissions, MB vs MBEB Emissions, Scope 3 Customer usage vs sold product emissions.
 - Other KPIs: those outside of Scope 1-3, assessing Fresh Water Usage, Spillage/Spill Volume and Wastage.
 
 **Social (5+ KPIs)**
-- CSV produced from extracted data within dashboard
-- Assessed KPIs: TRCF vs Fatalities YoY, YoY TRCF and %Female Diversity
+- CSV produced from extracted data within dashboard.
+- Assessed KPIs: TRCF vs Fatalities YoY, YoY TRCF and %Female Diversity.
 
 **Governance** - Data in reveiw
 
