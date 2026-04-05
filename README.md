@@ -16,9 +16,9 @@ I cleaned the data into a structured format and selected only the KPIs that coul
 **Reporting** - Environmental section of project summarised via short LinkedIn post: https://www.linkedin.com/posts/riyaz-chowdhury-873633328_esg-sustainability-climaterisk-activity-7444698591178317824-9deX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFKs1BcBvCct06n122Y5iGeT_wLGBsqxkoY. 
 
 # Data Sources 
-**Shell Sustainability Supplement data 2025**
-**Shell Sustainability report 2023**
-**Shell Sustaiability report 2020**
+- Shell Sustainability Supplement data 2025.
+- Shell Sustainability report 2023
+- Shell Sustaiability report 2020
 
 # KEY Abbreviations
 **MB** - Market Based.
@@ -34,15 +34,21 @@ I cleaned the data into a structured format and selected only the KPIs that coul
 - Other KPIs: those outside of Scope 1-3, assessing Fresh Water Usage, Spillage/Spill Volume and Wastage.
 
 **Social (5+ KPIs)**
+- Overall less reportable KPI's **(Environmental focus as data is in greater excess with more comparison standpoints over 10 year period)**
 - CSV produced from extracted data within dashboard.
 - Assessed KPIs: TRCF vs Fatalities YoY, YoY TRCF and %Female Diversity.
 
 **Governance** - Data in reveiw
+KPI's being reviewed:
+- Fines/Penalties YoY
+- Executive pau ratio (CEO vs Median Employee)
+- Low Carbon Capex (% Total on renewable)
 
 # Limitations
 This project is based on public reporting, so it is limited by what Shell chooses to disclose and how it defines each metric.
 Not every KPI is reported every year, and some metrics change format over time, which means not all values are directly comparable.
 To keep the analysis honest, I excluded inconsistent metrics rather than filling gaps with assumptions.
+
 # Notes
 This project is intended as a learning and portfolio piece, not as a claim that any one KPI explains broader sustainability performance on its own.
 Where reporting gaps exist, they are treated as part of the story rather than ignored.
