@@ -27,13 +27,13 @@ I cleaned the data into a structured format and selected only the KPIs that coul
 
 # Breakdown 
 
-**Environmental (25+ KPIs overall)**
+**Environmental (25+ KPIs overall) (E of ESG)**
 - Scope 1-3 CSVs produced via Excel Dashboards of each.
 - Scope 1 Key KPIs assessed and comparison points: YoY NCI, YoY Gasses (CO2/CH4/HCF), Direct Scope 1 vs Scope 1 Equity Boundary (for assessing JV reliance).
 - Scope 2 Key KPIs assessed and comparison points: MB vs LB Emissions, MB vs MBEB Emissions, Scope 3 Customer usage vs sold product emissions.
 - Other KPIs: those outside of Scope 1-3, assessing Fresh Water Usage, Spillage/Spill Volume and Wastage.
 
-**Social (5+ KPIs)**
+**Social (5+ KPIs) (S of ESG)**
 - Overall less reportable KPI's **(Environmental focus as data is in greater excess with more comparison standpoints over 10 year period)**
 - CSV produced from extracted data within dashboard.
 - Assessed KPIs: TRCF vs Fatalities YoY, YoY TRCF and %Female Diversity.
